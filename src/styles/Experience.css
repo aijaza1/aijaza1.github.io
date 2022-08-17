@@ -1,0 +1,27 @@
+.experience{
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 170px;
+    margin-bottom: 70px;
+}
+ h1{
+    color: #437081;
+    font-size: 45px;
+  }
+  h2 {
+      font-size: 30px;
+  }
+  ul {
+      font-size: 20px;
+  }
+  p{
+      font-size: 20px;
+      margin-top: -10px;
+      margin-left: 10%;
+      margin-right: 10%;
+      color: black;
+  }
