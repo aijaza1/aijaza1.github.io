@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.caedae92.css",
+    "main.js": "/portfolio/static/js/main.f0d77485.js",
+    "static/js/787.d56c4dbc.chunk.js": "/portfolio/static/js/787.d56c4dbc.chunk.js",
+    "static/media/ricks.png": "/portfolio/static/media/ricks.1a934d6da8b8661efedf.png",
+    "static/media/noblecanni.png": "/portfolio/static/media/noblecanni.8ee11df290e7b7a9f993.png",
+    "static/media/brightminds.png": "/portfolio/static/media/brightminds.75192b3aa1551da7a6a0.png",
+    "static/media/medace.png": "/portfolio/static/media/medace.3dfc78abfa94949e4a50.png",
+    "static/media/vcuapp.png": "/portfolio/static/media/vcuapp.ebbf94ad5bc509b91ac7.png",
+    "static/media/shell.png": "/portfolio/static/media/shell.876876b77c06b50b58bf.png",
+    "static/media/racetrack.png": "/portfolio/static/media/racetrack.5960e00518f3ce857871.png",
+    "static/media/flashcard.png": "/portfolio/static/media/flashcard.f0d49075f1380bf75d61.png",
+    "static/media/fifo.png": "/portfolio/static/media/fifo.2cff95b12954fdcc271e.png",
+    "static/media/AzeemResume.pdf": "/portfolio/static/media/AzeemResume.46c33a980eda213b99fc.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.caedae92.css.map": "/portfolio/static/css/main.caedae92.css.map",
+    "main.f0d77485.js.map": "/portfolio/static/js/main.f0d77485.js.map",
+    "787.d56c4dbc.chunk.js.map": "/portfolio/static/js/787.d56c4dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caedae92.css",
+    "static/js/main.f0d77485.js"
+  ]
+}
