@@ -82,6 +82,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  
 }
 .coding ul{
   text-align: left;
@@ -104,3 +105,4 @@
   transform: scale(1);
   margin-top: 5px;
 }
+

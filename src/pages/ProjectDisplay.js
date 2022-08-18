@@ -21,10 +21,13 @@ function ProjectDisplay() {
       <p>
         <b>Skills:</b> {project.skills}
       </p>
+      <div className="disc">
       <p>
-          <b>Description:</b>
+          <b>Description</b>
       </p>
       <h3>{project.description}</h3>
+
+      </div>
              
     </div>
  
