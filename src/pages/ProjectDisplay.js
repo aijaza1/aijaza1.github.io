@@ -11,6 +11,7 @@ function ProjectDisplay() {
   const project = ProjectList[id];
   return (
     <div className="project">
+      <br></br><br></br><br></br><br></br>
       <h1> {project.name}</h1>
       <img src={project.image} />
 
