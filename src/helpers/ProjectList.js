@@ -59,7 +59,7 @@ export const ProjectList = [
         description: "Created a program where you can enter two sides of a flashcard to study with. Displays flashcard and able to press different buttons such as answer, nextm or ask for hints. Used as tool to learn another language.",
     },
     {
-        name: "C Fifo Process Synchonization",
+        name: "FIFO Bounded Buffer",
         image: fifo,
         skills: "C, Bash, Linux, Command Line",
         link: "https://github.com/aijaza1/fifo",
