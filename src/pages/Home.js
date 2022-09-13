@@ -4,7 +4,7 @@ import GitHubIcon from "@material-ui/icons/GitHub";
 import EmailIcon from '@material-ui/icons/Email';
 import DescriptionIcon from '@material-ui/icons/Description';
 import "../styles/Home.css";
-import resume from "../assets/AzeemResume.pdf";
+import resume from "../assets/azeemaijazresume.pdf";
 
 
 
