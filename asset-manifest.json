@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/aijaza1.github.io/static/css/main.4fe3c43c.css",
-    "main.js": "/aijaza1.github.io/static/js/main.03ed54ec.js",
-    "static/js/787.d56c4dbc.chunk.js": "/aijaza1.github.io/static/js/787.d56c4dbc.chunk.js",
-    "static/media/ricks.png": "/aijaza1.github.io/static/media/ricks.1a934d6da8b8661efedf.png",
-    "static/media/noblecanni.png": "/aijaza1.github.io/static/media/noblecanni.8ee11df290e7b7a9f993.png",
-    "static/media/brightminds.png": "/aijaza1.github.io/static/media/brightminds.75192b3aa1551da7a6a0.png",
-    "static/media/medace.png": "/aijaza1.github.io/static/media/medace.3dfc78abfa94949e4a50.png",
-    "static/media/vcuapp.png": "/aijaza1.github.io/static/media/vcuapp.ebbf94ad5bc509b91ac7.png",
-    "static/media/shell.png": "/aijaza1.github.io/static/media/shell.876876b77c06b50b58bf.png",
-    "static/media/racetrack.png": "/aijaza1.github.io/static/media/racetrack.5960e00518f3ce857871.png",
-    "static/media/flashcard.png": "/aijaza1.github.io/static/media/flashcard.f0d49075f1380bf75d61.png",
-    "static/media/fifo.png": "/aijaza1.github.io/static/media/fifo.2cff95b12954fdcc271e.png",
-    "static/media/azeemaijazresume.pdf": "/aijaza1.github.io/static/media/azeemaijazresume.27c973c6ca09c6e1f824.pdf",
-    "index.html": "/aijaza1.github.io/index.html",
-    "main.4fe3c43c.css.map": "/aijaza1.github.io/static/css/main.4fe3c43c.css.map",
-    "main.03ed54ec.js.map": "/aijaza1.github.io/static/js/main.03ed54ec.js.map",
-    "787.d56c4dbc.chunk.js.map": "/aijaza1.github.io/static/js/787.d56c4dbc.chunk.js.map"
+    "main.css": "/static/css/main.4fe3c43c.css",
+    "main.js": "/static/js/main.ef33403b.js",
+    "static/js/787.d56c4dbc.chunk.js": "/static/js/787.d56c4dbc.chunk.js",
+    "static/media/ricks.png": "/static/media/ricks.1a934d6da8b8661efedf.png",
+    "static/media/noblecanni.png": "/static/media/noblecanni.8ee11df290e7b7a9f993.png",
+    "static/media/brightminds.png": "/static/media/brightminds.75192b3aa1551da7a6a0.png",
+    "static/media/medace.png": "/static/media/medace.3dfc78abfa94949e4a50.png",
+    "static/media/vcuapp.png": "/static/media/vcuapp.ebbf94ad5bc509b91ac7.png",
+    "static/media/shell.png": "/static/media/shell.876876b77c06b50b58bf.png",
+    "static/media/racetrack.png": "/static/media/racetrack.5960e00518f3ce857871.png",
+    "static/media/flashcard.png": "/static/media/flashcard.f0d49075f1380bf75d61.png",
+    "static/media/fifo.png": "/static/media/fifo.2cff95b12954fdcc271e.png",
+    "static/media/AzeemAijaz-Resume.pdf": "/static/media/AzeemAijaz-Resume.258731ad1c7e2ec1ccdd.pdf",
+    "index.html": "/index.html",
+    "main.4fe3c43c.css.map": "/static/css/main.4fe3c43c.css.map",
+    "main.ef33403b.js.map": "/static/js/main.ef33403b.js.map",
+    "787.d56c4dbc.chunk.js.map": "/static/js/787.d56c4dbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fe3c43c.css",
-    "static/js/main.03ed54ec.js"
+    "static/js/main.ef33403b.js"
   ]
 }
