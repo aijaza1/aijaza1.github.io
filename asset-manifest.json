@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fe3c43c.css",
-    "main.js": "/static/js/main.e11388a3.js",
-    "static/js/787.d56c4dbc.chunk.js": "/static/js/787.d56c4dbc.chunk.js",
-    "static/media/ricks.png": "/static/media/ricks.1a934d6da8b8661efedf.png",
-    "static/media/noblecanni.png": "/static/media/noblecanni.8ee11df290e7b7a9f993.png",
-    "static/media/brightminds.png": "/static/media/brightminds.75192b3aa1551da7a6a0.png",
-    "static/media/medace.png": "/static/media/medace.3dfc78abfa94949e4a50.png",
-    "static/media/vcuapp.png": "/static/media/vcuapp.ebbf94ad5bc509b91ac7.png",
-    "static/media/shell.png": "/static/media/shell.876876b77c06b50b58bf.png",
-    "static/media/racetrack.png": "/static/media/racetrack.5960e00518f3ce857871.png",
-    "static/media/flashcard.png": "/static/media/flashcard.f0d49075f1380bf75d61.png",
-    "static/media/fifo.png": "/static/media/fifo.2cff95b12954fdcc271e.png",
-    "static/media/AzeemResume.pdf": "/static/media/AzeemResume.46c33a980eda213b99fc.pdf",
-    "index.html": "/index.html",
-    "main.4fe3c43c.css.map": "/static/css/main.4fe3c43c.css.map",
-    "main.e11388a3.js.map": "/static/js/main.e11388a3.js.map",
-    "787.d56c4dbc.chunk.js.map": "/static/js/787.d56c4dbc.chunk.js.map"
+    "main.css": "/AzeemPortfolio/static/css/main.4fe3c43c.css",
+    "main.js": "/AzeemPortfolio/static/js/main.03ed54ec.js",
+    "static/js/787.d56c4dbc.chunk.js": "/AzeemPortfolio/static/js/787.d56c4dbc.chunk.js",
+    "static/media/ricks.png": "/AzeemPortfolio/static/media/ricks.1a934d6da8b8661efedf.png",
+    "static/media/noblecanni.png": "/AzeemPortfolio/static/media/noblecanni.8ee11df290e7b7a9f993.png",
+    "static/media/brightminds.png": "/AzeemPortfolio/static/media/brightminds.75192b3aa1551da7a6a0.png",
+    "static/media/medace.png": "/AzeemPortfolio/static/media/medace.3dfc78abfa94949e4a50.png",
+    "static/media/vcuapp.png": "/AzeemPortfolio/static/media/vcuapp.ebbf94ad5bc509b91ac7.png",
+    "static/media/shell.png": "/AzeemPortfolio/static/media/shell.876876b77c06b50b58bf.png",
+    "static/media/racetrack.png": "/AzeemPortfolio/static/media/racetrack.5960e00518f3ce857871.png",
+    "static/media/flashcard.png": "/AzeemPortfolio/static/media/flashcard.f0d49075f1380bf75d61.png",
+    "static/media/fifo.png": "/AzeemPortfolio/static/media/fifo.2cff95b12954fdcc271e.png",
+    "static/media/azeemaijazresume.pdf": "/AzeemPortfolio/static/media/azeemaijazresume.27c973c6ca09c6e1f824.pdf",
+    "index.html": "/AzeemPortfolio/index.html",
+    "main.4fe3c43c.css.map": "/AzeemPortfolio/static/css/main.4fe3c43c.css.map",
+    "main.03ed54ec.js.map": "/AzeemPortfolio/static/js/main.03ed54ec.js.map",
+    "787.d56c4dbc.chunk.js.map": "/AzeemPortfolio/static/js/787.d56c4dbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fe3c43c.css",
-    "static/js/main.e11388a3.js"
+    "static/js/main.03ed54ec.js"
   ]
 }
