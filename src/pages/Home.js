@@ -47,7 +47,7 @@ function Home() {
                 <li className='item'>
                 <h2>Languages: </h2>
                     <span> 
-                    HTML, CSS, Javascipt, ReactJS, Python, Java, C, C++, Linux, Command Line, Terminal, Bash, Markdown
+                    HTML, CSS, Javascript, ReactJS, Python, Java, C, C++, SQL, Linux, Command Line, Terminal, Bash, Markdown
                     </span>
                 </li>
                 <br></br><br></br>
